@@ -1,0 +1,21 @@
+{
+  "name": "@miyaoka/css",
+  "version": "1.0.0",
+  "description": "Miyaoka's css",
+  "main": "base.css",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miyaoka/css.git"
+  },
+  "author": "Masaya Kazama <miyan@t-p.jp> (https://miyaoka.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miyaoka/css/issues"
+  },
+  "homepage": "https://github.com/miyaoka/css#readme",
+  "dependencies": {}
+}
